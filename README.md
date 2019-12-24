@@ -4,7 +4,7 @@
 
 # Moodle Automated Testing Framework!
 
-Welcome to the **Moodle** Automated Testing framework! Moodle is a free and open-source learning management system (LMS) written in PHP and distributed under the GNU General Public License. Moodle is used for blended learning, distance education, flipped classroom and other e-learning projects in schools, universities, workplaces and other sectors.
+Welcome to the **Moodle Automated Testing Framework!** Moodle is a free and open-source learning management system (LMS) written in PHP and distributed under the GNU General Public License. Moodle is used for blended learning, distance education, flipped classroom and other e-learning projects in schools, universities, workplaces and other sectors.
 
 # The Goal
 
