@@ -9,16 +9,18 @@ The testing framework runs on Ubuntu (Linux/Unix). The testing framework will be
 ## Getting Started
 
 - To run the framework simple clone the project to your machine.
-
-    > git clone https://github.com/csci-362-01-2019/Home-School-Drop-Outs.git
-
+    ```
+    git clone https://github.com/csci-362-01-2019/Home-School-Drop-Outs.git
+    ```
 
 - Navigate to the scripts directory located in the TestAutomation directory.
-    > cd ../pathToProject/TestAutomation/scripts
-
+```
+    cd ../pathToProject/TestAutomation/scripts
+```
 - Run the testing framework with the following command.
-    > bash ./runAllTests.sh
-
+```
+    bash ./runAllTests.sh
+```
 # The Framework
 
 At the framework’s highest level, it can be broken down into six steps. Start the script, Run all test cases, store expected outputs, compare to the output, write to JSON, display web page. At any step during the process, if what the script is looking for is not there, skip the test case. 
