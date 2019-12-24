@@ -23,6 +23,7 @@ The testing framework runs on Ubuntu (Linux/Unix). The testing framework will be
 
 At the framework’s highest level, it can be broken down into six steps. Start the script, Run all test cases, store expected outputs, compare to the output, write to JSON, display web page. At any step during the process, if what the script is looking for is not there, skip the test case. 
 <br />
+<br />
 
 <a target="_blank"><img width="300" height="300" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/HighLevel.png" border="0" alt="High Level Overview"></a>
 
