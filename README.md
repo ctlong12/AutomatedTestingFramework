@@ -1,7 +1,6 @@
 
-<p align="center">
-  <img width="300" height="300"               src="https://github.com/ctlong12/AutomatedTestingFramework/blob/master/README_IMAGES/moodle-logo.png" border="0" alt="MVC">
-</p>
+<a target="_blank"><img width="300" height="300" src="https://github.com/ctlong12/AutomatedTestingFramework/blob/master/README_IMAGES/moodle-logo.png" border="0" alt="High Level Overview"></a>
+
 
 # Moodle Automated Testing Framework!
 
@@ -82,7 +81,6 @@ To diplsay the results of our test cases, we will be using a PHP Web Application
 Utilizing the power behind this framework also gives us the opportunity to implement a more robust client side to the already robust testing framework. User authentication, and the ability to create test cases and methods directly from the client side are two of the main features implemented through the Laravel framework.
 
 ### The Model View Controller Architecture 
-
 
 
 The Model View Controller (usually known as MVC) is a software design pattern commonly used for developing user interfaces which divides the related program logic into three interconnected elements.​ The model represents the data, and does nothing else. The model doesn’t depend on the controller or the view. The view displays the model data, and sends user actions (e.g. button clicks) to the controller.
