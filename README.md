@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="500" height="500"               src="https://github.com/ctlong12/AutomatedTestingFramework/blob/master/README_IMAGES/moodle-logo.png" border="0" alt="MVC">
+  <img width="300" height="300"               src="https://github.com/ctlong12/AutomatedTestingFramework/blob/master/README_IMAGES/moodle-logo.png" border="0" alt="MVC">
 </p>
 
 # Moodle Automated Testing Framework!
