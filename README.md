@@ -25,11 +25,10 @@ At the framework’s highest level, it can be broken down into six steps. Start 
 <br />
 <br />
 
-<a target="_blank"><img width="950" height="225" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/Overview_General.png" border="0" alt="High Level Overview"></a>
+<a target="_blank"><img width="950" height="200" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/Overview_General.png" border="0" alt="High Level Overview"></a>
 
 <br />
 
 ## Framework Overview
-<br />
 
 First, the runAllTests.sh bash script is ran. Once the script begins running, it looks for test cases in the test case folder. Once the file is found, it is parsed and broken up into an array of values, this is why the format of the test case is important. The expected output (specified in the test case) is written into an oracle file to test for correctness later on. Once all values are parsed and the script determines that it is a valid test case, it then determines whether or not the method to test is valid. If it is a valid test, the script then runs the method with the input from the test case and checks the output with the oracle to test whether or not the output matches the oracle. The values from the array are then stored in a JSON formatted file and then the script restarts until it iterates through the entire test case folder. Once completed, the JSON file is parsed and sent into an HTML document to output all results into a table.
