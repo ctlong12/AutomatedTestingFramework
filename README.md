@@ -81,7 +81,7 @@ The Model View Controller (usually known as MVC) is a software design pattern co
 
 <br />
 
-<a target="_blank"><img width="600" height="600" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/MVC.png" border="0" alt="MVC"></a>
+<a target="_blank"><img width="700" height="600" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/MVC.png" border="0" alt="MVC"></a>
 
 <br />
 
