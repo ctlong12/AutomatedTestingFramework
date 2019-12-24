@@ -21,4 +21,4 @@ The testing framework runs on Ubuntu (Linux/Unix). The testing framework will be
 
 
 
-<a target="_blank"><img align="right" width="300" height="500" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/HighLevel.png" border="0" alt="Home page of the Sustainability Application"></a>
+<a target="_blank"><img align="center" width="300" height="300" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/HighLevel.png" border="0" alt="Home page of the Sustainability Application"></a>
