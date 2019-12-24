@@ -42,7 +42,7 @@ First, the runAllTests.sh bash script is ran. Once the script begins running, it
 <br />
 <br />
 
-
+< br />
 ## Adding New Methods
 
 To provide users with a more flexible and interactive experience, the framework has been modified not only to accept new test cases, but also new moodle methods. The architecture which runs all the test cases remains the same. What does change is the process before running all the tests. Before running all of our tests, our bash scripts checks the client “executables” directory to see if any new methods or test cases have been added by a user. If new methods were added, we cycle through them and attempt to construct a new method. To construct a new method, we first look through the component (given to us by the method case) to find the name of the method we wish to extract. From there, we grab the entire line where the method is location and all lines following up until the functions end.
@@ -60,6 +60,28 @@ If the method is constructed correctly then we need to update the driver to acco
 <br />
 
 <a target="_blank"><img width="750" height="500" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/Driver)_Update.png" border="0" alt="Dynamic Driver"></a>
+
+<br />
+
+
+
+## Client Side Using Laravel 
+
+< br />
+
+To diplsay the results of our test cases, we will be using a PHP Web Application Framework called Laravel. Laravel is a free, open-source PHP web framework, created by Taylor Otwell. The goal of Laravel is to aid the development of web applications following the model view controller (MVC) architectural pattern. Some of the features of Laravel are a modular packaging system with a dedicated dependency manager, and different ways for accessing relational databases. 
+
+Utilizing the power behind this framework also gives us the opportunity to implement a more robust client side to the already robust testing framework. User authentication, and the ability to create test cases and methods directly from the client side are two of the main features implemented through the Laravel framework.
+
+### The Model View Controller Architecture 
+
+< br />
+
+The Model View Controller (usually known as MVC) is a software design pattern commonly used for developing user interfaces which divides the related program logic into three interconnected elements.​ The model represents the data, and does nothing else. The model doesn’t depend on the controller or the view. The view displays the model data, and sends user actions (e.g. button clicks) to the controller.
+
+<br />
+
+<a target="_blank"><img width="600" height="600" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/MVC.png" border="0" alt="MVC"></a>
 
 <br />
 
