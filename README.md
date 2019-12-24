@@ -60,7 +60,9 @@ If the method is constructed correctly then we need to update the driver to acco
 
 <br />
 
-<a target="_blank"><img width="750" height="500" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/Driver)_Update.png" border="0" alt="Dynamic Driver"></a>
+<p align="center">
+  <img width="750" height="500" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/Driver)_Update.png" border="0" alt="Dynamic Driver"></a>
+</p>
 
 <br />
 
