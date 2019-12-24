@@ -46,6 +46,14 @@ First, the runAllTests.sh bash script is ran. Once the script begins running, it
 
 To provide users with a more flexible and interactive experience, the framework has been modified not only to accept new test cases, but also new moodle methods. The architecture which runs all the test cases remains the same. What does change is the process before running all the tests. Before running all of our tests, our bash scripts checks the client “executables” directory to see if any new methods or test cases have been added by a user. If new methods were added, we cycle through them and attempt to construct a new method. To construct a new method, we first look through the component (given to us by the method case) to find the name of the method we wish to extract. From there, we grab the entire line where the method is location and all lines following up until the functions end.
 
-<a target="_blank"><img width="950" height="175" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/MethodTesting.png" border="0" alt="High Level Overview"></a>
+<a target="_blank"><img width="950" height="700" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/MethodTesting.png" border="0" alt="Method Overview"></a>
+
+## Dynamic Driver Overview
 
 If the method is constructed correctly then we need to update the driver to account for the new method. The framework has a flexible driver than can be expanded upon to account for any new methods the testing framework gets.
+
+We are able to add new methods into our testing framework due to the implementation of a expandable/flexible driver. What this means is that if a new method is added then the driver will be updated to account for the new method that it received.
+The process of adding new methods to the driver starts with the creation of the require statement. This require statement is the same name of the method we are testing, it is added using a “sed” command directly after the last require statement in the file. The function that follows is a simple php method that calls executes the method. The input accepts an array of arguments which makes this flexible enough to account for a functions with any given amount of parameters. Once the require statement is added, the updated version of the “driver.php” file is stored in the “TestCasesExecutables” directory. From there we have a new updated driver that has accounted for any new methods that have been added.
+
+<a target="_blank"><img width="750" height="800" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/Driver)_Update.png" border="0" alt="Dynamic Driver"></a>
+
