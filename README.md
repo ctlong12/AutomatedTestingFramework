@@ -68,7 +68,7 @@ If the method is constructed correctly then we need to update the driver to acco
 
 ## Client Side Using Laravel 
 
-< br />
+
 
 To diplsay the results of our test cases, we will be using a PHP Web Application Framework called Laravel. Laravel is a free, open-source PHP web framework, created by Taylor Otwell. The goal of Laravel is to aid the development of web applications following the model view controller (MVC) architectural pattern. Some of the features of Laravel are a modular packaging system with a dedicated dependency manager, and different ways for accessing relational databases. 
 
@@ -76,7 +76,7 @@ Utilizing the power behind this framework also gives us the opportunity to imple
 
 ### The Model View Controller Architecture 
 
-< br />
+
 
 The Model View Controller (usually known as MVC) is a software design pattern commonly used for developing user interfaces which divides the related program logic into three interconnected elements.​ The model represents the data, and does nothing else. The model doesn’t depend on the controller or the view. The view displays the model data, and sends user actions (e.g. button clicks) to the controller.
 
