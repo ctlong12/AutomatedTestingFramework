@@ -81,8 +81,8 @@ Utilizing the power behind this framework also gives us the opportunity to imple
 The Model View Controller (usually known as MVC) is a software design pattern commonly used for developing user interfaces which divides the related program logic into three interconnected elements.​ The model represents the data, and does nothing else. The model doesn’t depend on the controller or the view. The view displays the model data, and sends user actions (e.g. button clicks) to the controller.
 
 <br />
-
-<a target="_blank"><img width="700" height="600" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/MVC.png" border="0" alt="MVC"></a>
-
+<p align="center">
+  <img width="700" height="600"               src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/MVC.png" border="0" alt="MVC">
+</p>
 <br />
 
