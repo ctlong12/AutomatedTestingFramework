@@ -9,9 +9,9 @@ The testing framework runs on Ubuntu (Linux/Unix). The testing framework will be
 ## Getting Started
 
 - To run the framework simple clone the project to your machine.
-    ```
+```
     git clone https://github.com/csci-362-01-2019/Home-School-Drop-Outs.git
-    ```
+```
 
 - Navigate to the scripts directory located in the TestAutomation directory.
 ```
