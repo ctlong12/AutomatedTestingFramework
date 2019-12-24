@@ -18,3 +18,7 @@ The testing framework runs on Ubuntu (Linux/Unix). The testing framework will be
 
 - Run the testing framework with the following command.
     > bash ./runAllTests.sh
+
+
+
+<a target="_blank"><img align="right" width="300" height="500" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/HighLevel.png" border="0" alt="Home page of the Sustainability Application"></a>
