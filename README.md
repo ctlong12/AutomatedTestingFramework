@@ -46,7 +46,8 @@ First, the runAllTests.sh bash script is ran. Once the script begins running, it
 <br />
 <br />
 
-< br />
+
+
 
 ## Adding New Methods
 
