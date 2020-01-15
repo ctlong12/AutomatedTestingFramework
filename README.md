@@ -55,7 +55,7 @@ To provide users with a more flexible and interactive experience, the framework 
 
 <br />
 
-<a target="_blank"><img width="950" height="600" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/MethodTesting.png" border="0" alt="Method Overview"></a>
+<a target="_blank"><img width="900" height="600" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/MethodTesting.png" border="0" alt="Method Overview"></a>
 
 <br />
 
