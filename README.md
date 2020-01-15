@@ -41,7 +41,7 @@ First, the runAllTests.sh bash script is ran. Once the script begins running, it
 
 <br />
 
-<a target="_blank"><img width="950" height="700" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/Test%20Cases%403x.png" align = "right" border="0" alt="High Level Overview"></a>
+<a target="_blank"><img width="900" height="700" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/Test%20Cases%403x.png" align = "right" border="0" alt="High Level Overview"></a>
 
 <br />
 <br />
