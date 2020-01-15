@@ -31,7 +31,7 @@ At the framework’s highest level, it can be broken down into six steps. Start 
 <br />
 <br />
 
-<a target="_blank"><img width="950" height="175" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/Overview_General.png" border="0" alt="High Level Overview"></a>
+<a target="_blank"><img width="950" height="150" src="https://raw.githubusercontent.com/ctlong12/AutomatedTestingFramework/master/README_IMAGES/Overview_General.png" border="0" alt="High Level Overview"></a>
 
 <br />
 
